@@ -9,5 +9,9 @@ int main() {
 	for (i = 0, i < 100; i++) {
 		printf("this is a program");
 	}
+
+	for (i = 0, i < 10; i++) {
+		printf("this is a program");
+	}
 	return 0;
 }
